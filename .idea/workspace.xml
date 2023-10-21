@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1437cad-f034-47f6-85b9-9848bd4e6ac5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber/features/AddToCart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber/features/CheckOut.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber/features/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber/features/logout.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber/runner/runLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber/stepDef/step.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber/test.java" afterDir="false" />
+    <list default="true" id="e1437cad-f034-47f6-85b9-9848bd4e6ac5" name="Changes" comment="Rakamin Saucedemo Automate testing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2X33jlk8sIUWrdAupQdwFz1rWbL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/cotto/OneDrive/Documents/RAKAMIN - PROA - SQA/Week 6/SauceDemo-Rakamin-Homework",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -183,12 +169,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697844075369</updated>
-      <workItem from="1697844076396" duration="8289000" />
+      <workItem from="1697844076396" duration="8940000" />
+      <workItem from="1697853813556" duration="18000" />
     </task>
+    <task id="LOCAL-00001" summary="Rakamin Saucedemo Automate testing">
+      <option name="closed" value="true" />
+      <created>1697852440993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697852440993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rakamin Saucedemo Automate testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rakamin Saucedemo Automate testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
